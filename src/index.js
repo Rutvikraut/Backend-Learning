@@ -16,7 +16,6 @@ connectDB()
     console.log("MongoDB connection failed !",err)
 })
 
-// import express from "express";
 // const app = express();
 // (async()=>{
 //     try{
